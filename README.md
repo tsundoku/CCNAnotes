@@ -17,6 +17,7 @@ TCP and UDP
 
 **3. Network**  
 can route by IP address  
+ICMP (ping)  
 
 **2. Data link**  
 can route by MAC address  
