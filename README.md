@@ -4,12 +4,18 @@ My CCNA notes
 OSI model  
 
 **7. Application**  
+
+*conceptual*  
 Microsoft Active Directory  
 
 **6. Presentation**  
+
+*conceptual*  
 coding and decoding, character encoding, compression, encryption and decryption  
 
 **5. Session**  
+
+*conceptual*  
 SIP protocol (Session Initiation Protocol)  
 
 **4. Transport**  
