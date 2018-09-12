@@ -13,14 +13,34 @@ coding and decoding, character encoding, compression, encryption and decryption
 SIP protocol (Session Initiation Protocol)  
 
 **4. Transport**  
+
+*conceptual*  
 TCP and UDP  
 
+*PDU*  
+segment
+
 **3. Network**  
+
+*conceptual*  
 can forward based on IP address  
 ICMP (ping)  
 
+*PDU*  
+packet
+
 **2. Data link**  
+
+*conceptual*  
 can forwad based on MAC address  
 
+*PDU*  
+frame
+
 **1. Physical**  
+
+*conceptual*  
 physics, electrical signals  
+
+*PDU*  
+bits
