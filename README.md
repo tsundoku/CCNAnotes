@@ -16,11 +16,11 @@ SIP protocol (Session Initiation Protocol)
 TCP and UDP  
 
 **3. Network**  
-can route by IP address  
+can forward based on IP address  
 ICMP (ping)  
 
 **2. Data link**  
-can route by MAC address  
+can forwad based on MAC address  
 
 **1. Physical**  
 physics, electrical signals  
