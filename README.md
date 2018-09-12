@@ -4,8 +4,10 @@ My CCNA notes
 OSI model  
 
 **7. Application**  
+Microsoft Active Directory  
 
 **6. Presentation**  
+coding and decoding, character encoding, compression, encryption and decryption  
 
 **5. Session**  
 SIP protocol (Session Initiation Protocol)  
@@ -14,10 +16,10 @@ SIP protocol (Session Initiation Protocol)
 TCP and UDP  
 
 **3. Network**  
-Can route by IP address  
+can route by IP address  
 
 **2. Data link**  
-Can route by MAC address  
+can route by MAC address  
 
 **1. Physical**  
-Electrical signals  
+physics, electrical signals  
