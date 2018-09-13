@@ -57,4 +57,3 @@ CSMA/CD (carrier-sense multiple access with collision detection)
 
 **Wireless**  
 CSMA/CA (carrier-sense multiple access with collision avoidance)  
-also used in token ring networks  
