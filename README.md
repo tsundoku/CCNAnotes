@@ -50,3 +50,11 @@ physics, electrical signals
 
 *PDU*  
 bits
+
+
+**Wired**  
+CSMA/CD (carrier-sense multiple access with collision detection)  
+
+**Wireless**  
+CSMA/CA (carrier-sense multiple access with collision avoidance)  
+also used in token ring networks  
